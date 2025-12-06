@@ -1,5 +1,4 @@
 # Personal-Projects
-# Personal Projects
 
 This repository includes my individual practice projects that demonstrate my initiative to learn IT, networking, and programming outside of class.
 
